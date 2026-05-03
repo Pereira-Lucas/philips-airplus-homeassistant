@@ -36,3 +36,5 @@ models:
       filter_replace_reset_raw: "D0540E"
       device_model: "ctn"
       device_brand: "D01S04"
+      pm25: "D03221"
+      allergen_index: "D03120"
